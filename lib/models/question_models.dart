@@ -12,7 +12,7 @@ class QuestionModels {
   List<QuestionModels> questionWithAnswer =const [
     QuestionModels(
         question: 'What\'s favarite color?',
-        answer: ['Red', 'Blue', 'Green', 'Black'],
+        answer: ['Yall', 'Blue', 'Green', 'Black'],
         correctanswer: 'Red'),
     QuestionModels(
         question: 'What\'s favarite food?',
