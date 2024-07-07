@@ -1,16 +1,11 @@
-# quiz_app
+# Quiz App 📱🎓
 
-A new Flutter project.
+Welcome to **Quiz App**, a cross-platform mobile application developed using Flutter for both Android and iOS. This app presents users with a series of questions and calculates their final score based on their responses.
 
-## Getting Started
+## Features ✨
 
-This project is a starting point for a Flutter application.
+- **Cross-Platform Support**: Seamlessly runs on both Android and iOS devices.
+- **Variety of Questions**: Includes a diverse range of questions across different categories.
+- **Scoring System**: Automatically calculates and displays the user's final score at the end of the quiz.
+- **User-Friendly Interface**: Clean and intuitive UI for an enhanced user experience.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
